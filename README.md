@@ -1,12 +1,12 @@
 # fruit-recognition-from-images
-##Introduction
+# Introduction
 
 In both theory and practice, we have achieved our main goal of implementing applied 
 machine learning "CNN - Fruit recognition from images". Understand how to analyze the
 system and apply the algorithm model to the system. We need to get a lot of records for 
 each image.
 
-##Theory
+# Theory
 
 CNNs are a type of deep learning model. Convolutional layers, pooling layers, 
 ReLU layers, fully linked layers, and loss layers are all possible components of such 
