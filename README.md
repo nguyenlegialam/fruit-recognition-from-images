@@ -1,4 +1,3 @@
-# fruit-recognition-from-images
 # Introduction
 
 In both theory and practice, we have achieved our main goal of implementing applied 
